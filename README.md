@@ -1,7 +1,7 @@
 ## Installation
 
 - Edit `.env` and set your database connection details 
-- (When installed via git clone or download, run `composer install`,`php artisan key:generate`, `php artisan passport:install` and `php artisan migrate:fresh --seed`)
+- (When installed via git clone or download, run `composer install`,`php artisan key:generate`, `php artisan migrate:fresh --seed`, and `php artisan passport:install`)
 
 ## Usage
 
