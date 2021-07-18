@@ -1,3 +1,16 @@
+## Installation
+
+- `composer create-project --prefer-dist cretueusebiu/laravel-nuxt`
+- Edit `.env` and set your database connection details 
+- (When installed via git clone or download, run `composer install`,`php artisan key:generate`, `php artisan passport:install` and `php artisan migrate:fresh --seed`)
+
+## Usage
+
+### Development
+
+# start Laravel
+php artisan serve
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
